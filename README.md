@@ -5,7 +5,7 @@
 
 - [Database `.csv`](https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2022/2022-08-02/frogs.csv)
 
-<img src="">
+<img src="https://github.com/fblpalmeira/frogs_adehabitat/blob/main/Oregon%20spotted%20frog%20telemetry%20dataset.png">
 
 Reference:
 
